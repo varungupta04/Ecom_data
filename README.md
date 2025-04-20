@@ -55,18 +55,18 @@ transactions_df = pd.read_csv('data/transactions.csv')
 customers_df = pd.read_csv('data/customers.csv')
 ```
 
-```
-Then open and run any of the analysis notebooks.
 
-## Analysis Features
+
+
+### Analysis Features
 - Customer segmentation
 - Sales forecasting
 - Product recommendation
 - Churn prediction
 - Market basket analysis
 
-## License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
+### Contact
 Varun Gupta 
